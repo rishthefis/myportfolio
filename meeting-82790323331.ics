@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201220T142428Z
+DTSTART;TZID=Asia/Kolkata:20201223T190000
+DTEND;TZID=Asia/Kolkata:20201223T200000
+SUMMARY:Entrepreneurship(ENTJ_1_10-12_b190)
+EXDATE;TZID=Asia/Kolkata:20201225T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210108T143000;INTERVAL=1;BYDAY=WE,FR
+UID:ZOOM82790323331
+TZID:Asia/Kolkata
+DESCRIPTION:Facilitator4 Uable is inviting you to a scheduled Zoom meetin
+ g.\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/w/82790323331?tk=iHHU3W
+ wgMlqPSSQIfgIVBXw0Ull_wUKXQn3xC2r3Txo.DQIAAAATRrAUgxZhMVFxelQ4elFzdUhYSD
+ k1RWRnb213AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=UG4vWFpKK3VIdkF1aVQ5c0hySFR0Z
+ z09\n\nMeeting ID: 827 9032 3331\nPasscode: 9dblsmjp\nOne tap mobile\n+1
+ 3017158592\,\,82790323331#\,\,\,\,*22433854# US (Washington D.C)\n+13126
+ 266799\,\,82790323331#\,\,\,\,*22433854# US (Chicago)\n\nDial by your lo
+ cation\n        +1 301 715 8592 US (Washington D.C)\n        +1 312 626 
+ 6799 US (Chicago)\n        +1 346 248 7799 US (Houston)\n        +1 669 
+ 900 6833 US (San Jose)\n        +1 929 205 6099 US (New York)\n        +
+ 1 253 215 8782 US (Tacoma)\nMeeting ID: 827 9032 3331\nPasscode: 2243385
+ 4\nFind your local number: https://us02web.zoom.us/u/kecQWn6Kso\n\n
+LOCATION:https://us02web.zoom.us/w/82790323331?tk=iHHU3WwgMlqPSSQIfgIVBXw
+ 0Ull_wUKXQn3xC2r3Txo.DQIAAAATRrAUgxZhMVFxelQ4elFzdUhYSDk1RWRnb213AAAAAAA
+ AAAAAAAAAAAAAAAAAAAAA&pwd=UG4vWFpKK3VIdkF1aVQ5c0hySFR0Zz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201220T142428Z
+DTSTART;TZID=Asia/Kolkata:20210113T190000
+DTEND;TZID=Asia/Kolkata:20210113T200000
+SUMMARY:Entrepreneurship(ENTJ_1_10-12_b190)
+UID:ZOOM82790323331OCCURRENCE1608903000000
+DESCRIPTION:Facilitator4 Uable is inviting you to a scheduled Zoom meetin
+ g.\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/w/82790323331?tk=iHHU3W
+ wgMlqPSSQIfgIVBXw0Ull_wUKXQn3xC2r3Txo.DQIAAAATRrAUgxZhMVFxelQ4elFzdUhYSD
+ k1RWRnb213AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=UG4vWFpKK3VIdkF1aVQ5c0hySFR0Z
+ z09\n\nMeeting ID: 827 9032 3331\nPasscode: 9dblsmjp\nOne tap mobile\n+1
+ 3017158592\,\,82790323331#\,\,\,\,*22433854# US (Washington D.C)\n+13126
+ 266799\,\,82790323331#\,\,\,\,*22433854# US (Chicago)\n\nDial by your lo
+ cation\n        +1 301 715 8592 US (Washington D.C)\n        +1 312 626 
+ 6799 US (Chicago)\n        +1 346 248 7799 US (Houston)\n        +1 669 
+ 900 6833 US (San Jose)\n        +1 929 205 6099 US (New York)\n        +
+ 1 253 215 8782 US (Tacoma)\nMeeting ID: 827 9032 3331\nPasscode: 2243385
+ 4\nFind your local number: https://us02web.zoom.us/u/kecQWn6Kso\n\n
+TZID:Asia/Kolkata
+LOCATION:https://us02web.zoom.us/w/82790323331?tk=iHHU3WwgMlqPSSQIfgIVBXw
+ 0Ull_wUKXQn3xC2r3Txo.DQIAAAATRrAUgxZhMVFxelQ4elFzdUhYSDk1RWRnb213AAAAAAA
+ AAAAAAAAAAAAAAAAAAAAA&pwd=UG4vWFpKK3VIdkF1aVQ5c0hySFR0Zz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
